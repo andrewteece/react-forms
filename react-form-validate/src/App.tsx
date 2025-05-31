@@ -2,7 +2,7 @@ import logo from './assets/logo.svg';
 import './App.css';
 import { useState } from 'react';
 import axios from 'axios';
-import './Form.css';
+import './assets/form.css';
 
 function App() {
   const [formData, setFormData] = useState({
